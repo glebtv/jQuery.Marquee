@@ -4,7 +4,7 @@ jQuery-Marquee without CSS3 Support
 A greatly simplified and rewritten in coffeescript version of jquery.marquee with state save/load support.
 Example usage with Turbolinks:
 
-```
+```coffee
 marquee_offset = '20px'
 $ma = false
 
